@@ -18,3 +18,5 @@ playwright-report/
 .claude/
 .agents/
 .agent/
+# Personal notes
+ssh-key记录.md
